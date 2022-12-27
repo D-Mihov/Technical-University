@@ -1,0 +1,10 @@
+Filip 22 50000
+Dankata 22 5
+Peci 24 200
+Toni 10 1234
+Lucho 3 12535
+Milen 25 444444
+Kiro 69 696969
+Kmeta 33 333333
+Tanev 22 1
+Vasko 22 555
